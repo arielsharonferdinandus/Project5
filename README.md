@@ -1,7 +1,7 @@
-# Pokedex
+# Pokemon Center
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Virtuozs/WCD03-Assignment-5/dev/public/image/logo.svg" alt="Pokémon Logo" width="280"/>
+  <img src="https://raw.githubusercontent.com/arielsharonferdinandus/Project5/main/public/image/logo.svg" alt="Pokémon Logo" width="280"/>
 </p>
 
 **Pokémon Center** is a modern and responsive web application built using **React**, **Tailwind CSS**, and **Vite**.  This app lets users browse, and explore Pokémon data from the [PokéAPI](https://pokeapi.co/) with a smooth and engaging user experience. turning the classic Pokédex into an interactive digital adventure.
